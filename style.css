@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: cursive;
+    
+}
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.color-generator{
+    background-color: olive;
+    width: 18rem;
+    height: 9rem;
+    color: #FFF;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border: 2px solid #000;
+    border-radius: 10px;
+
+}
